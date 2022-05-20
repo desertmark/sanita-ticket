@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanita-Ticket", "Sanita-Ticket.csproj", "{378F0579-D66B-4741-B678-8447BAC7DDB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378F0579-D66B-4741-B678-8447BAC7DDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378F0579-D66B-4741-B678-8447BAC7DDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378F0579-D66B-4741-B678-8447BAC7DDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378F0579-D66B-4741-B678-8447BAC7DDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6236593F-4737-47E5-9A4F-CEAAF1DCA5E5}
+	EndGlobalSection
+EndGlobal
